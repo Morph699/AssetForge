@@ -216,6 +216,3 @@ D. Visual Identity & Privacy-Preserving Support System
 | **Mobile WebView Download Mesh**        | Can fail on sandboxed mobile WebViews due to restricted `blob:`/`data:` protocol handlers.                    | **3-Stage Failover:** Web Share API $\rightarrow$ Ephemeral HTTPS Relay $\rightarrow$ Touch-Hold Preview.                               |
 | **Integrated Telemetry Audit**          | Black-box operation with no diagnostics or execution telemetry.                                               | Real-time console with **audit timestamps, 1-click clipboard export, and `.TXT` saving**.                                               |
 | **CSS Variable Palette Exporter**       | Requires manual color picking and manual CSS drafting.                                                        | Auto-quantizes top 6 dominant colors and outputs a **ready-to-paste `:root` CSS block**.                                                |
-
-<img width="1776" height="2368" alt="1789742043658-01a0b4ee-cbb2-77ad-a797-5e99e3b1fbda" src="https://github.com/user-attachments/assets/0852caa3-7e47-49f7-a501-5beb232ccb66" />
-<img width="1776" height="2368" alt="1789742043658-01a0b4ee-cbb2-77ad-a797-5e99e3b1fbda" src="https://github.com/user-attachments/assets/3deb4fb3-1c0d-4a5a-ad3f-c7dca5474d7c" />
