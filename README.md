@@ -201,9 +201,8 @@ D. Visual Identity & Privacy-Preserving Support System
     golden Unicode Dragon glyph (🐉 / U+1F409 in Segoe UI Emoji / #D4AF37) across
     sticky header bars and About modals.
   - Zero-Plaintext Email Protection: Developer feedback channels decode contact
-    endpoints dynamically at runtime using ASCII byte arrays
-    (morphscreations@gmail.com), reducing exposure of plaintext email addresses
-    to basic automated web scrapers and spambots.
+    endpoints dynamically at runtime using ASCII byte arrays reducing exposure of 
+    plaintext email addresses to basic automated web scrapers and spambots.
 
 📊 5. Competitive Differentiator Matrix
 
